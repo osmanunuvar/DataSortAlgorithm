@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AlgorithmTest": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\asus\\OneDrive\\Masaüstü\\DataSortAlgorithm\\AlgorithmTest\\generator/output_file\r\nC:\\Users\\asus\\OneDrive\\Masaüstü\\DataSortAlgorithm\\AlgorithmTest\\generator/sorted_file",
+      "remoteDebugEnabled": false
+    }
+  }
+}
